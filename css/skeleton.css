@@ -27,6 +27,8 @@
 
 
 /* Grid
+*{background-color: black;
+  color: white;}
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
   position: relative;
