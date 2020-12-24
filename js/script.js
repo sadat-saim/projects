@@ -16,7 +16,4 @@ document.getElementById('poet').innerHTML = quotes[data][1];
 
 const btn = document.querySelector('.button');
 
-// btn.setAttribute('href', 'https://sadat-saim.github.io/projects/');
-btn.setAttribute('href', 'http://index.html');
-
 btn.style.background = '#ccc';
